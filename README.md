@@ -1,4 +1,4 @@
-[![](https://github.com/Gotcha007/steamdeck-configuraton-ultime-steamos/blob/main/images/Psteam-deck-white-1-2-1-3.svg)](https://puissancesteamdeck.com/)
+[![](https://github.com/Gotcha007/steamdeck-configuration-ultime-steamos/blob/main/images/Psteam-deck-white-1-2-1-3.svg)](https://puissancesteamdeck.com/)
 
 Guide configuration de steam os pour la steam deck. Ce guide est maintenu par la commu Puissance Steam Deck.
 
